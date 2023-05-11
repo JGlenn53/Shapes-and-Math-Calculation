@@ -1,7 +1,5 @@
 package com.projectpersonal.MathFunctions;
 
-import com.projectpersonal.DoAll;
-
 public class Multiplication extends DoAll {
     private double firstNumber;
     private double secondNumber;

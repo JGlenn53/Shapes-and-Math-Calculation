@@ -1,6 +1,6 @@
 package com.projectpersonal.Shapes;
 
-import com.projectpersonal.DoAll;
+import com.projectpersonal.MathFunctions.DoAll;
 
 public class Square extends DoAll {
     private double heightAndWidth;

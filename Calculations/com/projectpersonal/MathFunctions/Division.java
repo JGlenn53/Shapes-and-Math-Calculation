@@ -1,7 +1,5 @@
 package com.projectpersonal.MathFunctions;
 
-import com.projectpersonal.DoAll;
-
 public class Division extends DoAll {
     private double firstDivideNumber;
     private double dividedByNumber;

@@ -1,4 +1,4 @@
-package com.projectpersonal;
+package com.projectpersonal.MathFunctions;
 
 public abstract class DoAll {
 

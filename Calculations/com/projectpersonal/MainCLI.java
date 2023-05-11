@@ -4,11 +4,11 @@ import com.projectpersonal.MathFunctions.Addition;
 import com.projectpersonal.MathFunctions.Division;
 import com.projectpersonal.MathFunctions.Multiplication;
 import com.projectpersonal.MathFunctions.Subtraction;
+import com.projectpersonal.Shapes.Formulas;
 import com.projectpersonal.Shapes.Rectangle;
 import com.projectpersonal.Shapes.Square;
 import com.projectpersonal.Shapes.Triangle;
 
-import java.awt.*;
 import java.util.Random;
 import java.util.Scanner;
 

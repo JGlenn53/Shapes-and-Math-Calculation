@@ -1,7 +1,5 @@
 package com.projectpersonal.MathFunctions;
 
-import com.projectpersonal.DoAll;
-
 public class Addition extends DoAll {
     private double firstAddNumber;
     private double secondAddNumber;

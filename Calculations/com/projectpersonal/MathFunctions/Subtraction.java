@@ -1,7 +1,5 @@
 package com.projectpersonal.MathFunctions;
 
-import com.projectpersonal.DoAll;
-
 public class Subtraction extends DoAll {
     private double firstSub;
     private double secondSub;
